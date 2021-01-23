@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/login/static/css/main.bf057b7a.chunk.css",
-    "main.js": "/login/static/js/main.4faaebc4.chunk.js",
-    "main.js.map": "/login/static/js/main.4faaebc4.chunk.js.map",
-    "runtime-main.js": "/login/static/js/runtime-main.cc395ea8.js",
-    "runtime-main.js.map": "/login/static/js/runtime-main.cc395ea8.js.map",
-    "static/css/2.ae9f1eb3.chunk.css": "/login/static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.79d9c0c8.chunk.js": "/login/static/js/2.79d9c0c8.chunk.js",
-    "static/js/2.79d9c0c8.chunk.js.map": "/login/static/js/2.79d9c0c8.chunk.js.map",
-    "index.html": "/login/index.html",
-    "static/css/2.ae9f1eb3.chunk.css.map": "/login/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.bf057b7a.chunk.css.map": "/login/static/css/main.bf057b7a.chunk.css.map",
-    "static/js/2.79d9c0c8.chunk.js.LICENSE.txt": "/login/static/js/2.79d9c0c8.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/login/static/media/icon1.f144806d.png",
-    "static/media/imp2.2cb76a20.png": "/login/static/media/imp2.2cb76a20.png"
+    "main.css": "/loginsec/static/css/main.4b882e29.chunk.css",
+    "main.js": "/loginsec/static/js/main.1e4e57a3.chunk.js",
+    "main.js.map": "/loginsec/static/js/main.1e4e57a3.chunk.js.map",
+    "runtime-main.js": "/loginsec/static/js/runtime-main.891dffd2.js",
+    "runtime-main.js.map": "/loginsec/static/js/runtime-main.891dffd2.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/loginsec/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.707c89d5.chunk.js": "/loginsec/static/js/2.707c89d5.chunk.js",
+    "static/js/2.707c89d5.chunk.js.map": "/loginsec/static/js/2.707c89d5.chunk.js.map",
+    "index.html": "/loginsec/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/loginsec/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.4b882e29.chunk.css.map": "/loginsec/static/css/main.4b882e29.chunk.css.map",
+    "static/js/2.707c89d5.chunk.js.LICENSE.txt": "/loginsec/static/js/2.707c89d5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/loginsec/static/media/icon1.f144806d.png",
+    "static/media/imp2.2cb76a20.png": "/loginsec/static/media/imp2.2cb76a20.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc395ea8.js",
+    "static/js/runtime-main.891dffd2.js",
     "static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.79d9c0c8.chunk.js",
-    "static/css/main.bf057b7a.chunk.css",
-    "static/js/main.4faaebc4.chunk.js"
+    "static/js/2.707c89d5.chunk.js",
+    "static/css/main.4b882e29.chunk.css",
+    "static/js/main.1e4e57a3.chunk.js"
   ]
 }
